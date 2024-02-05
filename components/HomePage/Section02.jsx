@@ -41,6 +41,13 @@ const Section02 = () => {
                         Menulux Restoran POS birçok gelişmiş özelliği ile ihtiyaçlarınız için tasarlandı. Siparişlerinizi ve ödemelerinizi yönetirken, günlük iş akışınızı daha rahat koordine edebilirsiniz. Menulux POS sizin için önemli bir yardımcı
                     </p>
                 </div>
+
+                <a
+                    className='bg-[#e81c53] border border-[#e81c53] px-3 py-2 rounded-md text-white hover:bg-white hover:text-[#e81c53] transition-all delay-75'
+                    href="#"
+                >
+                    Teklif iste
+                </a>
             </div>
         </div>
     )
